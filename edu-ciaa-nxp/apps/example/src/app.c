@@ -17,7 +17,7 @@ int main( void )
 
    // Inicializar y configurar la plataforma
    boardConfig();
-
+   printf( "Probando ejercicio 1.\r\n" );
    // Crear varias variables del tipo booleano
    bool_t buttonValue = OFF;
    bool_t ledValue    = OFF;
